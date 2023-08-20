@@ -1,7 +1,7 @@
 /* We've created a database of people and hobbies, and each row in hobbies is related to a row in persons via the person_id column. */
 
 /* Step 1
-In this first step, insert one more row in persons and then one more row in hobbies that is related to the newly inserted person. 8?
+In this first step, insert one more row in persons and then one more row in hobbies that is related to the newly inserted person. */
 
 CREATE TABLE persons (
     id INTEGER PRIMARY KEY AUTOINCREMENT,
