@@ -9,5 +9,5 @@ In this repository, you'll find:
 2. Topics: Each query file is organized into folders based on the topic it covers. This makes it easier to navigate and learn specific concepts.
 
 ### Learning Resources
-Khan Academy: An excellent resource for learning SQL
-Link: https://www.khanacademy.org/computing/computer-programming/sql
+> Khan Academy: An excellent resource for learning SQL
+> Link: https://www.khanacademy.org/computing/computer-programming/sql
